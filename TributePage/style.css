@@ -1,0 +1,38 @@
+#title {
+    text-align: center;
+    font-weight: 800;
+    width: 100%
+}
+
+header {
+    background-color: azure;
+}
+
+.caption {
+    font-size: 25px;
+    text-align: center;
+}
+
+#image {
+    display: block;
+    width: 100%;
+    max-width: 524;
+    height: 720;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    font-size: 20px;
+    text-align: center;
+}
+
+#tribute-info {
+    font-size: 25px;
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    text-align: center;
+}
